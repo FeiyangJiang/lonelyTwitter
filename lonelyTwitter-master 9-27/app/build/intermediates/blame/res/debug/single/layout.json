@@ -8,6 +8,14 @@
         "source": "/Users/Jimmy/Desktop/lonelyTwitter-master/C:\\lonelyTwitter-master\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
+        "merged": "/Users/Jimmy/Desktop/CMPUT 301/lonelyTwitter-master 9.27/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Jimmy/Desktop/CMPUT 301/lonelyTwitter-master 9.27/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/Jimmy/Desktop/CMPUT 301/lonelyTwitter-master 9.27/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/Jimmy/Desktop/CMPUT 301/lonelyTwitter-master 9.27/app/src/main/res/layout/list_item.xml"
+    },
+    {
         "merged": "/Users/Jimmy/Desktop/lonelyTwitter-master/C:\\lonelyTwitter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
         "source": "/Users/Jimmy/Desktop/lonelyTwitter-master/C:\\lonelyTwitter-master\\app\\src\\main\\res\\layout\\list_item.xml"
     },

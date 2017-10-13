@@ -6,5 +6,9 @@
     {
         "merged": "/Users/Jimmy/Desktop/lonelyTwitter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
         "source": "/Users/Jimmy/Desktop/lonelyTwitter-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jimmy/Desktop/CMPUT 301/lonelyTwitter-master 9.27/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/Jimmy/Desktop/CMPUT 301/lonelyTwitter-master 9.27/app/src/main/res/drawable-mdpi/ic_launcher.png"
     }
 ]
